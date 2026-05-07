@@ -1,4 +1,4 @@
-# hassan-khld-Face_Landmark_Detection_Resnet18
+# Face_Landmark_Detection_Resnet18
 Face landmark detection for Deep learning project using RESNET Architecture 
 
 
